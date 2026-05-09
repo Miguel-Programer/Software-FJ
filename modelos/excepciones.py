@@ -18,3 +18,9 @@ class CorreoInvalidoError(Exception):
 class EdadInvalidaError(Exception):
     """Se lanza cuando la edad no es válida"""
     pass
+
+# Clase de excepción utilizada para errores generales
+# relacionados con la reserva
+class ReservaError(Exception):
+    """Se lanza cuando hay un error en la reserva"""
+    pass
