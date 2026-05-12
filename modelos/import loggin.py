@@ -1,9 +1,11 @@
 import logging
 
-# Registrar  errores
+
+# Registrar errores
 def log_error(mensaje):
     logging.error(mensaje)
 
-# Registar Eventos Revelantes
+
+# Registrar eventos relevantes
 def log_info(mensaje):
     logging.info(mensaje)

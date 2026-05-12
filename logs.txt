@@ -1,0 +1,19 @@
+2026-05-11 22:33:39,359 - INFO - Reserva creada correctamente
+2026-05-11 22:33:39,359 - INFO - Reserva confirmada
+2026-05-11 22:33:39,361 - INFO - OP1: Operacion completa exitosa - cliente Miguel, sala 3h
+2026-05-11 22:33:39,362 - ERROR - OP2: Error al crear cliente: Correo electrónico inválido
+2026-05-11 22:33:39,365 - ERROR - OP3: Error al crear cliente: La edad debe estar entre 18 y 100 años
+2026-05-11 22:33:39,366 - ERROR - OP4: Error al crear cliente: El nombre no puede estar vacío
+2026-05-11 22:33:39,374 - ERROR - OP5: Horas inválidas
+2026-05-11 22:33:39,374 - ERROR - OP6: Días inválidos
+2026-05-11 22:33:39,375 - INFO - Reserva creada correctamente
+2026-05-11 22:33:39,376 - INFO - Reserva cancelada
+2026-05-11 22:33:39,376 - INFO - OP7: Reserva de asesoria creada y cancelada correctamente
+2026-05-11 22:33:39,383 - INFO - Reserva creada correctamente
+2026-05-11 22:33:39,383 - INFO - Reserva confirmada
+2026-05-11 22:33:39,383 - ERROR - Descuento inválido
+2026-05-11 22:33:39,383 - ERROR - OP8: Descuento inválido
+2026-05-11 22:33:39,398 - INFO - Reserva creada correctamente
+2026-05-11 22:33:39,398 - INFO - Reserva confirmada
+2026-05-11 22:33:39,399 - INFO - OP9: Reserva equipo 5 dias con impuesto y cargo extra procesada
+2026-05-11 22:33:39,414 - ERROR - OP10: Error al crear cliente: La edad debe estar entre 18 y 100 años
